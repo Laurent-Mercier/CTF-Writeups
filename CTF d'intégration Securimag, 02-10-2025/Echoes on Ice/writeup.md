@@ -38,7 +38,7 @@ Le flag est donc: `Securimag{07-02-1968_Grenoble_Sweden_Ron_Kroon}`.
 
 **INCORRECT**  
 
-Mais que s'est-il passé? Pourquoi le flag ne marche pas? Après quelques essais infructeux, j'ai fini par réaliser que Ron Kroon n'était pas le bon nom. En allant sur la page Wikipedia de Ron Kroon ([Wikipedia](https://en.wikipedia.org/wiki/Ron_Kroon)), on découvre au premier mot que son prénom complet n'est pas Ron, mais bien Ronald.  
+Mais que s'est-il passé? Pourquoi le flag ne marche pas? Après quelques essais infructueux, j'ai fini par réaliser que Ron Kroon n'était pas le bon nom. En allant sur la page Wikipedia de Ron Kroon ([Wikipedia](https://en.wikipedia.org/wiki/Ron_Kroon)), on découvre au premier mot que son prénom complet n'est pas Ron, mais bien Ronald.  
 
 On peut donc entrer le flag à nouveau: `Securimag{07-02-1968_Grenoble_Sweden_Ronald_Kroon}`.  
 
